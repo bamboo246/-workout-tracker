@@ -1,1 +1,1 @@
-# -workout-tracker
+# Workout Tracker Project Folder
